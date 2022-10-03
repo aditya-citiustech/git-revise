@@ -6,6 +6,7 @@ function App() {
     <div className="">
     <div>Main Branch</div>
     <div>Child1</div>
+    <div>Child3</div>
     </div>
   );
 }
